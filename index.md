@@ -8,12 +8,6 @@ You can use the [editor on GitHub](https://github.com/jfloreskv/test.io/edit/mas
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 ![Image of aktoca](https://github.com/jfloreskv/0_prueba/raw/master/download.jpg)
 
@@ -21,6 +15,14 @@ Syntax highlighted code block
 
 Inline-style: 
 ![alt text](https://github.com/jfloreskv/0_prueba/master/download.jpg "Logo Title Text 1")
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
 
 
 - Bulleted
