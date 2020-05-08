@@ -1,8 +1,8 @@
-## Welcome to test PRU
+## Welcome to test PRUEBA
 
 You can use the [editor on GitHub](https://github.com/jfloreskv/test.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to.
+
 
 ### Markdown
 
@@ -25,3 +25,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to.
