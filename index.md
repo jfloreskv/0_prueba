@@ -15,10 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![Image of aktoca](https://jfloreskv.github.com/0_prueba/download.jpg)
+![Image of aktoca](https://github.com/jfloreskv/0_prueba/raw/master/download.jpg)
 
 Inline-style: 
-![alt text](https://github.com/jfloreskv/0_prueba/download.jpg "Logo Title Text 1")
+![alt text](https://github.com/jfloreskv/0_prueba/master/download.jpg "Logo Title Text 1")
 
 
 - Bulleted
