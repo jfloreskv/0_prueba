@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 ![Image of aktoca](https://github.com/jfloreskv/0_prueba/raw/master/download.jpg)
 
+![Image of aktoca](https://jfloreskv.github.io/0_prueba/download.jpg)
+
 Inline-style: 
 ![alt text](https://github.com/jfloreskv/0_prueba/master/download.jpg "Logo Title Text 1")
 
