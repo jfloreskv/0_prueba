@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![Image of aktoca](https://jfloreskv.github.com/0_prueba/download.jpg)
+
+Inline-style: 
+![alt text](https://github.com/jfloreskv/0_prueba/download.jpg "Logo Title Text 1")
+
+
 - Bulleted
 - List
 
