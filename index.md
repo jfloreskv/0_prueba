@@ -1,29 +1,18 @@
-## Welcome to test PRUEBA +++
+## Test page 
+Test link [editor on GitHub](https://github.com/jfloreskv/test.io/edit/master/index.md).
 
-You can use the [editor on GitHub](https://github.com/jfloreskv/test.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Test image 1
+![Test 1 image](https://github.com/jfloreskv/0_prueba/raw/master/download.jpg)
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-![Image of aktoca](https://github.com/jfloreskv/0_prueba/raw/master/download.jpg)
-
-![Image of aktoca](https://jfloreskv.github.io/0_prueba/download.jpg)
-
-Inline-style: 
-![alt text](https://github.com/jfloreskv/0_prueba/master/download.jpg "Logo Title Text 1")
+### Test image 2
+![Test 2 image](https://jfloreskv.github.io/0_prueba/download.jpg)
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block test
 
 # Header 1
 ## Header 2
 ### Header 3
-
-
 
 - Bulleted
 - List
@@ -36,4 +25,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to.
+On commit, GitHub Pages run [Jekyll](https://jekyllrb.com/).
